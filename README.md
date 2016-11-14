@@ -1,3 +1,1 @@
-![the quick brown fox](img/fox.png)
-
-![sample](img/sample.png)
+![the quick brown fox](fox.png)
